@@ -8,6 +8,12 @@ __pycache__/
 *.xls
 *.csv
 *.pkl
+*.zip
+*.txt
+
+# folders
+Output/
+SOM_output/
 
 # C extensions
 *.so
